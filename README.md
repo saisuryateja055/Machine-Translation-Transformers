@@ -8,5 +8,8 @@ The implementation of this Transformer model demonstrates the application of dee
 Transformer model custom-built using PyTorch.
 Usage of Colab for step-by-step implementation.
 
+## Data
+The dataset comprises parallel sentences in English and Telugu. Ensure the alignment of sentences in the dataset for effective trainin
+
 # LinkedIn 
 https://www.linkedin.com/in/saisuryateja055/
