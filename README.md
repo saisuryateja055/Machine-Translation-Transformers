@@ -7,3 +7,6 @@ The implementation of this Transformer model demonstrates the application of dee
 ## Features
 Transformer model custom-built using PyTorch.
 Usage of Colab for step-by-step implementation.
+
+# LinkedIn 
+https://www.linkedin.com/in/saisuryateja055/
