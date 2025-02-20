@@ -1,4 +1,4 @@
-That's a fantastic accomplishment! For your project, you might want to create a comprehensive README file that explains your machine translation model. This will help others understand, use, and potentially contribute to your project. Here's a suggested structure for your README:
+
 
 ---
 
