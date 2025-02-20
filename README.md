@@ -20,16 +20,9 @@ The dataset used for training comprises parallel corpora of English and Telugu s
 
 ## Technologies Used
 - **PyTorch**: For implementing and training the neural network.
-- **Google Colab**: For leveraging cloud GPUs for training.
+- **Google Colab**: For leveraging cloud GPUs for 
 
-## Installation
-To set up this project locally, follow these steps:
 
-```bash
-git clone https://github.com/yourusername/english-to-telugu-transformer.git
-cd english-to-telugu-transformer
-pip install -r requirements.txt
-```
 
 
 
